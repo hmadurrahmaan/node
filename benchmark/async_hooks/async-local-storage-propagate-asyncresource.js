@@ -44,3 +44,4 @@ function main({ n, storageCount }) {
     bench.end(n);
   });
 }
+ bench.end(n);nod
